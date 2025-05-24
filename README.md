@@ -1,6 +1,10 @@
 # awsome GenAI from scratch
-This is a repo that collects awsome projects focused on building GenAI from scratch.  
 
+![life circle](imgs/image.png)  
+**This is a repo that collects awsome projects focused on building GenAI from scratch.**  
+
+
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide to get started.
 
 ## Awesome Projects
 
@@ -31,4 +35,12 @@ This is a repo that collects awsome projects focused on building GenAI from scra
 - [Test time scaling](https://openai.com/o1/): It seems that there is no universally recognized paper.
 - [Multimodal Reasoning with Tools](https://openai.com/index/introducing-o3-and-o4-mini/)
 - 
+
+## Contributing
+
+We welcome contributions if you are interesting at building nano GenAI from scratch and want to maintain the awesome list together.  
+
+## TODO
+
+- [ ] CONTRIBUTING.md  
 
