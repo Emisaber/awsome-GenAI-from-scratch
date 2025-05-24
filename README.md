@@ -13,7 +13,7 @@
 ) [**TinyZero**](https://github.com/Jiayi-Pan/TinyZero): reproduce deepseek-R1 from scratch
 - ![Star](https://img.shields.io/github/stars/karpathy/nanoGPT)  [**nanoGPT**](https://github.com/karpathy/nanoGPT/): build gpt2 from scratch
 - ![Star](https://img.shields.io/github/stars/DLLXW/baby-llama2-chinese) [**baby-llama2-chinese**](https://github.com/DLLXW/baby-llama2-chinese): build llama2-chinese from scratch
-- ![Star](https://img.shields.io/github/stars/naklecha/llama3-from-scratch) [**llama3-from-scratche**](https://github.com/naklecha/llama3-from-scratch): llama3 implemented from scratch
+- ![Star](https://img.shields.io/github/stars/naklecha/llama3-from-scratch) [**llama3-from-scratch**](https://github.com/naklecha/llama3-from-scratch): llama3 implemented from scratch
 - 
 
 
