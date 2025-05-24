@@ -4,7 +4,6 @@
 **This is a repo that collects awsome projects focused on building GenAI from scratch.**  
 
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide to get started.
 
 ## Awesome Projects
 
