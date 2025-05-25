@@ -16,7 +16,9 @@
 - ![Star](https://img.shields.io/github/stars/naklecha/llama3-from-scratch) [**llama3-from-scratch**](https://github.com/naklecha/llama3-from-scratch): llama3 implemented from scratch
 - 
 
-
+## Awesome Blogs
+- [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+- 
 
 
 
