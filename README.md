@@ -22,7 +22,7 @@
 
 
 
-## Technique Report
+## Technical Report
 
 - [DeepSeek-v3](https://arxiv.org/abs/2412.19437)
 - [Llama 3](https://arxiv.org/abs/2407.21783)
@@ -43,5 +43,5 @@ We welcome contributions if you are interesting at building nano GenAI from scra
 
 ## TODO
 
-- [ ] CONTRIBUTING.md  
+- [X] CONTRIBUTING.md  
 
