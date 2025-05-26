@@ -41,7 +41,7 @@
 
 ## Contributing
 
-We welcome contributions if you are interesting at building nano GenAI from scratch and want to maintain the awesome list together.  
+We welcome contributions if you are interesting at building nano GenAI from scratch and want to maintain the awesome list together. Please read the [CONTRIBUTING](CONTRIBUTING.md) for more details.  
 
 ## TODO
 
