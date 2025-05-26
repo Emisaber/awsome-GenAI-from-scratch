@@ -1,6 +1,8 @@
 # awsome GenAI from scratch
 
 ![life circle](imgs/image.png)  
+>life circle  
+
 **This is a repo that collects awsome projects focused on building GenAI from scratch.**  
 
 
