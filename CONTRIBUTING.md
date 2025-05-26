@@ -40,7 +40,7 @@ Please follow these rules when contributing:
 ### Style
 
 FOR PROJECTs:  
-![Star](the star url obtained from [this great project](https://shields.io/)  
+![Star](the star url obtained from [this great project](https://shields.io/)
 ) [**name**](the project url): A brief description.  
 
 FOR BLOGs:  
