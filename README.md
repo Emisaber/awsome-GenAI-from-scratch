@@ -25,7 +25,6 @@
 
 
 ## Technical Report
-
 - [DeepSeek-v3](https://arxiv.org/abs/2412.19437)
 - [Llama 3](https://arxiv.org/abs/2407.21783)
 - [DeepSeek-R1](https://arxiv.org/abs/2501.12948)
@@ -33,11 +32,13 @@
 
 
 ### Great Insight
+
 - [Scaling Law OpenAI version](https://arxiv.org/abs/2001.08361)
 - [Scaling Law Google version](https://arxiv.org/abs/2001.08361)
 - [Test time scaling](https://openai.com/o1/): It seems that there is no universally recognized paper.
 - [Multimodal Reasoning with Tools](https://openai.com/index/introducing-o3-and-o4-mini/)
-- 
+- [An attempt to unify diffusion models](https://arxiv.org/abs/2011.13456)
+
 
 ## Contributing
 
@@ -46,4 +47,5 @@ We welcome contributions if you are interesting at building nano GenAI from scra
 ## TODO
 
 - [X] CONTRIBUTING.md  
+- [ ] Subdivided into multiple fields
 
