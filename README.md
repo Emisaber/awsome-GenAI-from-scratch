@@ -25,8 +25,10 @@ Currently there are three subfields: **LLM, MLLM, and Generation(image, video...
 
 ## Awesome Blogs & Tutorial
 
-- [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
-- [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/)
+- [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/): This is an excellent introductory tutorial for learning diffusion models.
+- [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/): A MIT's tutorial on flow matching
+- [minitorch](https://github.com/minitorch/minitorch): Learn the core concepts behind deep learning systems by implementing a mini version of PyTorch.
+
 
 ## Technical Report
 
