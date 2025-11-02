@@ -16,6 +16,7 @@ Currently there are three subfields: **LLM, MLLM, and Generation(image, video...
 - ![Star](https://img.shields.io/github/stars/DLLXW/baby-llama2-chinese) [**baby-llama2-chinese**](https://github.com/DLLXW/baby-llama2-chinese): build llama2-chinese from scratch
 - ![Star](https://img.shields.io/github/stars/naklecha/llama3-from-scratch) [**llama3-from-scratch**](https://github.com/naklecha/llama3-from-scratch): llama3 implemented from scratch
 - ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm) [**nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm): implement lightweight vLLM from scratch   
+- ![Star](https://img.shields.io/github/stars/karpathy/nanochat) [**nanochat**](): build a chat model from scratch, including the entire pipeline of tokenizer, pretraining, and post-training.
 
 ### MLLM
 - ![Star](https://img.shields.io/github/stars/huggingface/nanoVLM
@@ -32,18 +33,21 @@ Currently there are three subfields: **LLM, MLLM, and Generation(image, video...
 
 ## Technical Report
 
-- [DeepSeek-v3](https://arxiv.org/abs/2412.19437)
-- [Llama 3](https://arxiv.org/abs/2407.21783)
-- [DeepSeek-R1](https://arxiv.org/abs/2501.12948)
+- [Hugginface cookbook](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#introduction): A awesome cookbook covering all you need about LLM
+- [DeepSeek-R1](https://arxiv.org/abs/2501.12948): A work that sparked the reasonning model boom
+- [DeepSeek-v3](https://arxiv.org/abs/2412.19437): A highly influential MoE model.
+- [Llama 3](https://arxiv.org/abs/2407.21783): A simple yet worthwhile open-source model.
+
+
 
 ### Great Insight
 
-- [Scaling Law OpenAI version](https://arxiv.org/abs/2001.08361)
-- [Scaling Law Google version](https://arxiv.org/abs/2001.08361)
-- [o1: Test time scaling](https://openai.com/o1/): It seems that there is no universally recognized paper.
-- [o4: Multimodal Reasoning with Tools](https://openai.com/index/introducing-o3-and-o4-mini/)
-- [score based model: An attempt to unify diffusion models](https://arxiv.org/abs/2011.13456)
-
+- [Scaling Law OpenAI version](https://arxiv.org/abs/2001.08361): Basic principle of LLM(OpenAI version)
+- [Scaling Law Google version](https://arxiv.org/abs/2001.08361): Basic principle of LLM(Google version)
+- [o1: Test time scaling](https://openai.com/o1/): (It seems that there is no universally recognized paper.)
+- [gpt-o4](https://openai.com/index/introducing-o3-and-o4-mini/): Multimodal Reasoning with Tools
+- [score based model: An attempt to unify diffusion models](https://arxiv.org/abs/2011.13456): A unified framework(SDE) of generative models
+- [LLaDA](https://arxiv.org/abs/2502.09992): A representative work about diffusion text model
 
 
 
