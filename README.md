@@ -15,7 +15,6 @@ Currently there are three subfields: **LLM, MLLM, and Generation(image, video...
 - ![Star](https://img.shields.io/github/stars/karpathy/nanoGPT)  [**nanoGPT**](https://github.com/karpathy/nanoGPT/): build gpt2 from scratch
 - ![Star](https://img.shields.io/github/stars/DLLXW/baby-llama2-chinese) [**baby-llama2-chinese**](https://github.com/DLLXW/baby-llama2-chinese): build llama2-chinese from scratch
 - ![Star](https://img.shields.io/github/stars/naklecha/llama3-from-scratch) [**llama3-from-scratch**](https://github.com/naklecha/llama3-from-scratch): llama3 implemented from scratch
-- ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm) [**nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm): implement lightweight vLLM from scratch   
 - ![Star](https://img.shields.io/github/stars/karpathy/nanochat) [**nanochat**](): build a chat model from scratch, including the entire pipeline of tokenizer, pretraining, and post-training.
 
 ### MLLM
@@ -23,6 +22,12 @@ Currently there are three subfields: **LLM, MLLM, and Generation(image, video...
 ) [**nanoVLM**](https://github.com/huggingface/nanoVLM): Train a VLM from scratch
 
 ### Generation
+
+
+### AI Infra
+- ![Star](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm) [**nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm): implement lightweight vLLM from scratch   
+- ![Star](https://img.shields.io/github/stars/sgl-project/mini-sglang) [**mini-sglang**](https://github.com/GeeeekExplorer/nano-vllm): implement lightweight sglang from scratch
+
 
 ## Awesome Blogs & Tutorial
 
@@ -48,6 +53,8 @@ Currently there are three subfields: **LLM, MLLM, and Generation(image, video...
 - [gpt-o4](https://openai.com/index/introducing-o3-and-o4-mini/): Multimodal Reasoning with Tools
 - [score based model: An attempt to unify diffusion models](https://arxiv.org/abs/2011.13456): A unified framework(SDE) of generative models
 - [LLaDA](https://arxiv.org/abs/2502.09992): A representative work about diffusion text model
+- [World Model from Feifei Li](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence): World Model understanding from Feifei Li
+- 
 
 
 
